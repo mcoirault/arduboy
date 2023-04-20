@@ -595,7 +595,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "arduboy.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
